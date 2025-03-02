@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 50px;
+}
+
+h1 {
+  color: #e91e63;
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 1.6;
+}
+
+.cake {
+  width: 200px;
+  margin-top: 20px;
+}
